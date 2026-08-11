@@ -81,5 +81,6 @@ http://127.0.0.1:5000
 
 ## Autor
 
-Chefer  
-Proyecto desarrollado para el curso de Base de Datos, 2026.
+Chefer Polo Villarruel 
+Proyecto desarrollado para el curso de Base de Datos, 2026.  
+Fecha de actualización: 11.08.2026
